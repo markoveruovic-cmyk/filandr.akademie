@@ -1,0 +1,5 @@
+# Staging: indexace vypnutá (stránky mají i meta noindex)
+User-agent: *
+Disallow:
+
+Sitemap: https://user00mv.github.io/akademie/sitemap.xml
